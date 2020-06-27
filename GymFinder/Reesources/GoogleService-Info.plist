@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1084717390865-55qiiqp454qhdqtd6k9e3j1qisg75tdg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1084717390865-55qiiqp454qhdqtd6k9e3j1qisg75tdg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCm9H1-4pJOcszbPw-oWsLWAr7AsTJEunc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1084717390865</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codexpirit.GymFinder</string>
+	<key>PROJECT_ID</key>
+	<string>gymfinder-dda8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gymfinder-dda8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1084717390865:ios:bd7be8687e840f4a90a5b0</string>
+	<key>DATABASE_URL</key>
+	<string>https://gymfinder-dda8b.firebaseio.com</string>
+</dict>
+</plist>
